@@ -21,7 +21,7 @@ switch ($method) {
         break;
     case 'POST':
         // Se a requisição for POST, pode ser usado para criar um novo usuário, mas isso depende da aplicação
-        // Aqui podemos manipular a criação de um novo usuário
+        
         break;
     default:
         // Se outro método for usado, retornar um erro
